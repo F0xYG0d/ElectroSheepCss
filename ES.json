@@ -1,8 +1,8 @@
 {
     "room": "ElectroSheep!",
     "author": "F0xYG0d | PGD",
-    "icon": null,
-    "css": null,
+    "icon": "https://i.imgur.com/8OZSFNg.jpg?1",
+    "css": "https://raw.githack.com/F0xYG0d/ElectroSheepCss/master/ES.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
