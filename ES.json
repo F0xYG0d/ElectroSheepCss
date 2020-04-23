@@ -1,0 +1,45 @@
+{
+    "room": "ElectroSheep!",
+    "author": "F0xYG0d | PGD",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": false,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#FF0000",
+        "cohost": "#00FF77",
+        "manager": "#FF6600",
+        "bouncer": "#FFCC77",
+        "rdj": "#89Be6C",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": null,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": "https:\\/\\/cdn1.iconfinder.com\\/data\\/icons\\/follow-the-herd\\/512\\/blank_left-16.png",
+        "bouncer": "http:\\/\\/upload.wikimedia.org\\/wikipedia\\/commons\\/c\\/cf\\/Weather_lightning.png",
+        "rdj": "http://i.imgur.com/iCide8G.png",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
